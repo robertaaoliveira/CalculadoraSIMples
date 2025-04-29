@@ -1,0 +1,10 @@
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\bin\Debug\CalculadoraSIMples.exe.config
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\bin\Debug\CalculadoraSIMples.exe
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\bin\Debug\CalculadoraSIMples.pdb
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.csproj.AssemblyReference.cache
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.Form1.resources
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.Properties.Resources.resources
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.csproj.GenerateResource.cache
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.csproj.CoreCompileInputs.cache
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.exe
+C:\Users\roberta.boliveira5\source\repos\CalculadoraSIMples\CalculadoraSIMples\obj\Debug\CalculadoraSIMples.pdb
